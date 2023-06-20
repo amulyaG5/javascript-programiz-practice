@@ -1,0 +1,14 @@
+// formula to calculate sqrt root of a number = Math.sqrt()
+
+let number = 9
+let sqaureRootOfNumber = Math.sqrt(number)
+console.log(sqaureRootOfNumber);
+
+
+let number1 = 2.25
+let rootOfNumber = Math.sqrt(number1)
+console.log(rootOfNumber)
+
+let number2 = -4
+let rootOfNumber1 = Math.sqrt(number2)
+console.log(rootOfNumber1)
